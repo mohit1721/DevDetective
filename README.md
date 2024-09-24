@@ -1,5 +1,11 @@
 # DevDetective
 Link->https://mohit1721.github.io/DevDetective/
+
+
+
+
+
+
 The primary goal of the DevDetective project is to create a user-friendly web application that allows users to fetch and display information about GitHub users by utilizing the GitHub API. The application serves as a tool for developers and enthusiasts to quickly access user profiles, repositories, and other relevant information
 Key Features:
 1.	User Search:
